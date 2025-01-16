@@ -6,13 +6,13 @@
 
 ## [환경]
 
->LLM모델: Gemini 1.5 pro-001
+LLM모델: Gemini 1.5 pro-001
 
- VM: gcp compute engine 
+VM: gcp compute engine 
 
- UI:comfyui 
+UI:comfyui 
 
- diffusion model:stable diffusion 3.5,stable diffusion 1.5
+diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [파일]
 ['comfyui sd_3.5.json'](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui%20sd_3.5.json) :이미지생성 workflow
