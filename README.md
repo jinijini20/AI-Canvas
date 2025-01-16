@@ -30,5 +30,5 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [스토리 생성 프롬프트]
 ![storyboard_prompt](images/storyboard_prompt.png)
-<img src="https://github.com/jinijini20/AI-Canvas/blob/main/images/storyboard_prompt.png" width="450" height="450"/>
+<img src="https://github.com/jinijini20/AI-Canvas/blob/main/images/storyboard_prompt.png" width="600" height="600"/>
 
