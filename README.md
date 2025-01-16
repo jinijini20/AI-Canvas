@@ -30,6 +30,8 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [스토리 생성 프롬프트]
 ![storyboard_prompt](images/storyboard_prompt.png)
+<img src="https://github.com/jinijini20/AI-Canvas/blob/main/images/storyboard_prompt.png" width="480" >
+
 
 브랜드와 시장 현황, 타겟층과 그들의 행동양식, 제품 특징이나 셀링 포인트, 해결과제 등이 포함 된 Brief/RFP문서를 첨부하고 
 
