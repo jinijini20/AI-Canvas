@@ -29,4 +29,5 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 ![project phase/goal](images/story_workflow.png)
 
 ## [스토리 생성 프롬프트]
+![storyboard_prompt](images/storyboard_prompt.png)
 
