@@ -31,4 +31,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 ## [스토리 생성 프롬프트]
 ![storyboard_prompt](images/storyboard_prompt.png)
 
+브랜드와 시장 현황, 타겟층과 그들의 행동양식, 제품 특징이나 셀링 포인트, 해결과제 등이 포함 된 Brief/RFP문서를 첨부하고 
+
+시스템안내에 콘텐츠 제작/ 마케팅 전문가라는 페르소나를 부여하고 광고의형태와 결과물형식을 지정해줍니다.
 
