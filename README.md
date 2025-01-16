@@ -15,7 +15,7 @@ UI:comfyui
 diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [환경]
-['이미지 생성 워크플로우'](comfyui workflow/comfyui sd_3.5.json)
+['이미지 생성 워크플로우'](chttps://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui%20sd_3.5.json)
 
 [원하는 옷으로 변경하는 workflow] (링크)
 
