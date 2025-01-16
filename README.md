@@ -28,3 +28,5 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 ## [프로젝트 단계/최종목표]
 ![project phase/goal](images/story_workflow.png)
 
+## [스토리 생성 프롬프트]
+
