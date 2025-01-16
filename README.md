@@ -6,7 +6,7 @@
 
 ## [환경]
 
->LLM모델: Gemini 1.5 pro-001
+> LLM모델: Gemini 1.5 pro-001
 
 VM: gcp compute engine 
 
