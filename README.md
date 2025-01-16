@@ -26,3 +26,5 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 [comfyui_얼굴.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%96%BC%EA%B5%B4.json):원하는 얼굴로 변경하는 workflow
 
 ## [프로젝트 단계/최종목표]
+![project phase/goal](images/story_workflow.png)
+
