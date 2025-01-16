@@ -24,3 +24,5 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 [comfyui_제품시도1.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88%EC%8B%9C%EB%8F%841.json):원하는 제품으로 변경하는 workflow 시도1
 
 [comfyui_얼굴.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%96%BC%EA%B5%B4.json):원하는 얼굴로 변경하는 workflow
+
+## [프로젝트 단계/최종목표]
