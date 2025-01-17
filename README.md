@@ -37,9 +37,6 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [stable diffusion 3.5 이미지 생성 프롬프트]
 
-스토리보드의 이미지를 stable diffusion 3.5로 이미지생성하기위한 프롬프트를 생성했습니다. 이과정에서 저는 스토리보드를 입력하면 stable diffusion 3.5영어프롬프트가 나오는 프롬프트와 스토리보드를 입력하면
-
-stable diffusion 3.5 한글 프롬프트를 출력하고 번역한 프롬프트 이 두가지를 시도해보았습니다. 
-
-이 두가지를 시도해본결과 큰차이를 보이지않아 스토리보드를 입력하면 stable diffusion3.5 영어프롬프트가 나오는 프롬프트를
-선택했습니다.
+스토리보드의 이미지를 stable diffusion 3.5로 이미지생성하기위한 프롬프트를 생성했습니다. 이과정에서 저는 스토리보드를 입력하면 stable diffusion 3.5영어프롬프트가 나오는 프롬프트와 
+스토리보드를 입력하면 stable diffusion 3.5 한글 프롬프트를 출력하고 번역한 프롬프트 이 두가지를 시도해보았습니다. 
+이 두가지를 시도해본결과 큰차이를 보이지않아 스토리보드를 입력하면 stable diffusion3.5 영어프롬프트가 나오는 프롬프트를 선택했습니다.
