@@ -35,7 +35,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 시스템안내에 콘텐츠 제작/ 마케팅 전문가라는 페르소나를 부여하고 광고의형태와 결과물형식을 지정해줍니다.
 
-## [stable diffusion 3.5 이미지 생성 프롬프트]
+## [stable diffusion 3.5 이미지 생성 프롬프트/이미지 생성]
 
 스토리보드의 이미지를 stable diffusion 3.5로 이미지생성하기위한 프롬프트를 생성했습니다.
 
