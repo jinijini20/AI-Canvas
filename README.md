@@ -67,7 +67,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ### 튜닝한결과
 
-<img src="images/scene1.png" width="400" > <img src="images/scene2.png" width="400" length="600" > <img src="images/scene56.png" width="400" > 
+<img src="images/scene1.png" width="400" > <img src="images/scene2.png" width="400" length="650" > <img src="images/scene56.png" width="400" > 
 
 ## [이미지 파인튜닝(Fine Tuning)]
 
