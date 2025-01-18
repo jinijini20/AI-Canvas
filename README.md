@@ -45,4 +45,6 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 이 두가지를 시도해본결과 큰차이를 보이지않아 스토리보드(장면번호/줄거리/구도/카메라각도)를 입력하면 stable diffusion3.5 영어 프롬프트로 바로 이미지생성했습니다.
 
+지금보시는 워크플로우가 스토리보드이미지를생성 comfyui환경에 stable diffusion3.5입니다.
 
+<img src="https://github.com/jinijini20/AI-Canvas/blob/main/images/storyboard_prompt.png" width="700" >
