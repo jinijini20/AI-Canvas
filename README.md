@@ -75,6 +75,6 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 <img src="images/face_node.png" width="350" length="350">
 
-<img src="images/face_index.png" width="350" length="350">
+<img src="images/face_index.png" width="400" length="400">
 
 다음 그림과 같이 얼굴들이 여러 개 있는 경우, 그림에 있는 각 얼굴에 고유의 숫자를 부여합니다. Fast Swap Face Reactor는 얼굴 하나씩만 바꿀 수 있어, 맨 왼쪽에 있는 그림 같이 두 명 이상의 얼굴들을 바꾸고 싶다면, 얼굴의 개수만큼 Fast Swap Face Reactor 노드를 사용해야 합니다.
