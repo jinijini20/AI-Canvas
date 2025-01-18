@@ -69,3 +69,4 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ### ●얼굴
 원하는 얼굴로 이미지의 인물들을 바꿔주는데 있어 최적화 된 Fast Swap Face Reactor이라는 노드를 사용하여 우리가 원하는 얼굴로 바꿀 수 있습니다.
+<img src="images/comfyui_face.png" width="700" >
