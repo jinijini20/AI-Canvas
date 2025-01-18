@@ -59,4 +59,6 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 <img src="images/consistency.png" width="700" >
 
+### 결과
+
 ## [이미지 파인튜닝(Fine Tuning)
