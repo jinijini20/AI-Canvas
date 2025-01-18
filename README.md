@@ -83,7 +83,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다.제품 편집의 핵심은 Flux,Redux 모델입니다.
 
-####   * <flux 모델>
+#### <flux 모델>
 
 
 
@@ -97,6 +97,8 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 제품을 변경할때 변경하고자하는 제품이미지를 각도, 거리,이미지배경에 따라 잘변경되기도하고 잘변경되지않는경우도 있습니다.그래서 저는 여러경우를 시도해 어떤방법으로 해야 제품이 잘변경되는지 사도해보았습니다.
 
 * 각도
+<img src="images/angle.png" width="650" >
+위에 보이는 이미지처럼 원본이미지 제품 각도와 비슷하게 제품이미지를 업로드해줘야 더 잘변경되는것을 볼수있습니다.
 
 
 
