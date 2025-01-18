@@ -17,6 +17,10 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 ## [파일]
 [comfyui sd_3.5.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui%20sd_3.5.json) :이미지생성 workflow
 
+[storyboard_eng.pdf](storyboard_eng.pdf) : 스토리보드->stable diffusion 3.5영어프롬프트 시도한파일
+
+[storyboard_kr.pdf](storyboard_kr.pdf) :스토리보드->stable diffusion3.5한국어프롬프트->영어로 번역프롬프트 시도한 파일
+
 [comfyui_옷바꾸기.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%98%B7%EB%B0%94%EA%BE%B8%EA%B8%B0.json) :원하는 옷으로 변경하는 workflow
 
 [comfyui_제품.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88.json) :원하는 제품으로 변경하는 workflow
