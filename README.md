@@ -53,6 +53,12 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 <img src="images/comfyui_sd_3.5.png" width="700" >
 
+이 워크플로우에서 KSampler라는 노드의 cfg와 step값을  조정해 이미지를 생성했습니다.
+
+<img src="images/cfg.png" width="600" >
+
+ steps은 몇 차례 수행하며 노이즈를 제거할지 결정하는 값이고 cfg는 입력받은 프롬프트 값을 얼마나 강하게 적용할 것인지를 결정하는 값입니다. 그래서 step을  10으로 했더니 이미지 품질이 떨어지고 이번에는 cfg를  너무 높이 잡아서 이미지가 많이 왜곡되었습니다. 그래서 적절값을 찾아 이미지를 생성했습니다
+
 ## [프롬프트 튜닝(Prompt Tuning)]
 
 스토리보드가 스토리에 맞게 이미지가생성되었으나 칠성사이다 스토리보드에서 장면1,장면2가 이어지는 장면인데 일관성이 없이 이미지가생성되어서 얼굴, 배경,옷,제품을 프롬프트로 튜닝을 했습니다.
