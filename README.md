@@ -114,7 +114,7 @@ Redux 모델은 스타일이나 곡선들을 두드려지게 잘 표현하는 �
 
 하지만 Flux와 Redux,이 두 모델을 합치면 서로 부족한 면들을 보완하여 이미지를 생성합니다.
 
-####<flux+redux>
+#### <flux+redux>
 
 <img src="images/flux_redux.png" width="500"> 
 
