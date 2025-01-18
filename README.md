@@ -51,4 +51,4 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 지금보시는 워크플로우가 스토리보드 이미지를생성한  comfyui환경에 stable diffusion3.5입니다.
 
-<img src="https://github.com/jinijini20/AI-Canvas/blob/main/images/storyboard_prompt.png" width="700" >
+<img src="images/comfyui_sd_3.5.png" width="700" >
