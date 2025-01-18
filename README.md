@@ -98,15 +98,16 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 ----
 제품을 변경하고자하는 이미지에 원하는 제품으로 변경할때 원하는 제품이미지사진의 각도,ROI에 따라 제품이 잘바뀌기도 하고 잘바뀌지않는다 여러방법을 시도해서 제품이 선명하게 잘바뀌는 최적의 방법을 시도했습니다.
 
-##### 각도
+#### 각도
 <img src="images/angle.png" width="650" >
 위에 보이는 이미지처럼 원본이미지 제품 각도와 비슷하게 제품이미지를 업로드해줘야 더 잘변경되는것을 볼수있습니다.
 
-##### ROI(Region of Interest)
+#### ROI(Region of Interest)
 <img src="images/ROI.png" width="650" >
 
  ROI는 제품을 자동 인식 할 때 생겨나는 현상입니다. 스토리보드에 편집하고자 하는 제품이 하나이면 문제 없지만, 편집하고자 하는 제품이 두 개 이상일 경우, 인식 하고자 하는 영역이 커지므로 생겨나는 현상입니다.. 스토리보드에 편집하고자 하는 제품이 전체 그림 비율에 비해 적은 영역을 차지하면, 한꺼번에 제품들 여러개들을 편집하는 데에 큰 문제가 없지만, 편집하고자 하는 제품간의 길이가 넓어질수록, 제품이 흐릿하게 나오거나 위에 보시는 바와 같이 제품을 아이에 반영 하지 못하는 현상이 일어났습니다. 저는 최적의 이미지들을 추출하기 위해 제품을 하나씩 수정했습니다
 
+-----
 ### ●옷(inpainting) [comfyui_옷.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%98%B7%EB%B0%94%EA%BE%B8%EA%B8%B0.json)
 <img src="images/comfyui_clothes.png" width="650" >
 
@@ -115,7 +116,7 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 <img src="images/clothes_masking.png" width="500" ><img src="images/clothes_masking2.png" width="500" >
 
 이미지에서 옷 부분만 분리하기 위한 마스크를 생성하는 과정에서 세그멘테이션 모델을 사용하여 옷 부분을 자동으로 잘 분리하였으나 잘 입혀지지는 않았습니다.
-
+-----
 ## [최종 결과]
 
 <img src="images/peach1.png" width="500" > <img src="images/peach2.png" width="500" >
