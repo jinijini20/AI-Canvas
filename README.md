@@ -117,7 +117,9 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 <img src="images/clothes_masking.png" width="500" ><img src="images/clothes_masking2.png" width="500" >
 
 이미지에서 옷 부분만 분리하기 위한 마스크를 생성하는 과정에서 세그멘테이션 모델을 사용하여 옷 부분을 자동으로 잘 분리하였으나 잘 입혀지지는 않았습니다.
+
 -----
+
 ## [최종 결과]
 
 <img src="images/peach1.png" width="500" > <img src="images/peach2.png" width="500" >
