@@ -41,7 +41,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 스토리보드의 이미지를 stable diffusion 3.5로 이미지생성하기위한 프롬프트를 생성했습니다.
 
-이 과정에서 저는 스토리보드(장면번호/줄거리/구도/카메라각도)를 입력하면 stable diffusion 3.5영어프롬프트가 나오는 프롬프트[storyboard->ENG](storyboard_eng.pdf)와 
+이 과정에서 저는 스토리보드(장면번호/줄거리/구도/카메라각도)를 입력하면 stable diffusion 3.5영어프롬프트가 나오는 프롬프트 [storyboard->ENG](storyboard_eng.pdf)와 
 스토리보드(장면번호/줄거리/구도/카메라각도)를 입력하면 stable diffusion 3.5 한글 프롬프트를 출력하고 번역한 프롬프트 [storyboard->KR->ENG](storyboard_kr.pdf)
 이 두가지 방법으로 이미지를 생성했습니다.
 
