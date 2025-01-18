@@ -96,10 +96,13 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 
 #### <flux 모델>
 
+<img src="images/flux.png" width="500" > <img src="images/flux.png" width="500" >  
 
+flux모델은 제품의 특징을 추출한 후, 변환 행렬같은 수학적 기법을 이용해 스토리보드에 맞게 제품을 자동 편집하는 AI 모델입니다.
 
+Flux만 써도 로고나, 곡선 같은 제품의 주 특징들이 잘 반영 되는 반면, 제품의 색상이 변한 것을 볼 수 있습니다 제품의 화질도 기존과 비해 떨어진 것을 볼 수 있습니다.
 
-
+이를 보완하기 위해 Redux 모델을 추가로 사용했습니다.<img src="images/redux.png" width="650" >
 
 
 
