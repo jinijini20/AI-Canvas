@@ -55,11 +55,12 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [프롬프트 튜닝(Prompt Tuning)]
 
-스토리보드가 스토리에 맞게 이미지가생성되었으나 칠성사이다 스토리보드에서 장면1,장면2가 이어지는 장면인데 일관성이 없이 이미지가생성되어서 얼굴, 배경,옷,제품을 프롬프트로 튜닝을 했습니다.튜닝한 프롬프트 파일
+스토리보드가 스토리에 맞게 이미지가생성되었으나 칠성사이다 스토리보드에서 장면1,장면2가 이어지는 장면인데 일관성이 없이 이미지가생성되어서 얼굴, 배경,옷,제품을 프롬프트로 튜닝을 했습니다.
 
 <img src="images/consistency.png" width="700" >
 
-### 결과
+### 튜닝한결과
 
+<img src="images/scene1.png" width="450" >
 
 ## [이미지 파인튜닝(Fine Tuning)
