@@ -77,7 +77,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 다음 그림과 같이 얼굴들이 여러 개 있는 경우, 그림에 있는 각 얼굴에 고유의 숫자를 부여합니다. Fast Swap Face Reactor는 얼굴 하나씩만 바꿀 수 있어, 두 명 이상의 얼굴들을 바꾸고 싶다면, 얼굴의 개수만큼 Fast Swap Face Reactor 노드를 사용해야 합니다.
 
-### ●제품(inpaint) [comfyui_제품.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88.json)
+### ●제품(inpainting) [comfyui_제품.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88.json)
 
 <img src="images/comfyui_product1.png" width="650" >
 
@@ -103,9 +103,9 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 ##### ROI(Region of Interest)
 <img src="images/ROI.png" width="650" >
 
-관심 영역, 영어로 Region of Interest, 줄임말로 ROI입니다. ROI는 제품을 자동 인식 할 때 생겨나는 현상입니다. 스토리보드에 편집하고자 하는 제품이 하나이면 문제 없지만, 편집하고자 하는 제품이 두 개 이상일 경우, 인식 하고자 하는 영역이 커지므로 생겨나는 현상입니다.. 스토리보드에 편집하고자 하는 제품이 전체 그림 비율에 비해 적은 영역을 차지하면, 한꺼번에 제품들 여러개들을 편집하는 데에 큰 문제가 없지만, 편집하고자 하는 제품간의 길이가 넓어질수록, 제품이 흐릿하게 나오거나 위에 보시는 바와 같이 제품을 아이에 반영 하지 못하는 현상이 일어났습니다. 저는 최적의 이미지들을 추출하기 위해 제품을 하나씩 수정했습니다
+ ROI는 제품을 자동 인식 할 때 생겨나는 현상입니다. 스토리보드에 편집하고자 하는 제품이 하나이면 문제 없지만, 편집하고자 하는 제품이 두 개 이상일 경우, 인식 하고자 하는 영역이 커지므로 생겨나는 현상입니다.. 스토리보드에 편집하고자 하는 제품이 전체 그림 비율에 비해 적은 영역을 차지하면, 한꺼번에 제품들 여러개들을 편집하는 데에 큰 문제가 없지만, 편집하고자 하는 제품간의 길이가 넓어질수록, 제품이 흐릿하게 나오거나 위에 보시는 바와 같이 제품을 아이에 반영 하지 못하는 현상이 일어났습니다. 저는 최적의 이미지들을 추출하기 위해 제품을 하나씩 수정했습니다
 
-
+### ●옷(inpainting) [comfyui_옷.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88.json)
 
 
 
