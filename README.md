@@ -88,6 +88,8 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 얼굴의 수만큼 Fast Swap Face Reactor 노드를 추가해야합니다.
 
+-----
+
 ### ●제품(inpainting) [comfyui_제품.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%A0%9C%ED%92%88.json)
 
 <img src="images/comfyui_product1.png" width="650" >
