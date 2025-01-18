@@ -65,7 +65,7 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 프롬프트 튜닝으로 일관성있게하는데 한계가 있어서 comfyui stable diffusion1.5로 얼굴과 제품을 바꿨습니다.그리고 옷도 sd1.5로 동일하게 바꿀수있는지 시도해봤습니다. 
 
-### ●얼굴
+### ●얼굴 [comfyui_얼굴.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%96%BC%EA%B5%B4.json)
 
 원하는 얼굴로 이미지의 인물들을 바꿔주는데 있어 최적화 된 Fast Swap Face Reactor이라는 노드를 사용하여 우리가 원하는 얼굴로 바꿀 수 있습니다.
 
