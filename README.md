@@ -108,6 +108,10 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 ### ●옷(inpainting) [comfyui_옷.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%98%B7%EB%B0%94%EA%BE%B8%EA%B8%B0.json)
 <img src="images/comfyui_clothes.png" width="650" >
 
+프롬프트 튜닝을 해서 옷을 일관성있게하지않고 인물이 입고있는 옷으로 일관성있게 옷을 바꿀수있는지 시도해봤습니다.인물이 입고있는옷을 inpainting해서 다른 이미지의 인물이 입고있는 옷으로 바꿔보았습니다.
+
+<img src="images/clothes_masking.png" width="650" >
+
 
 
 
