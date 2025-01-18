@@ -73,4 +73,4 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 <img src="images/comfyui_face.png" width="500" >
 
-<img src="images/face_node.png" width="450" length="400">
+<img src="images/face_node.png" width="350" length="350">
