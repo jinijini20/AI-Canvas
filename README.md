@@ -116,7 +116,7 @@ Redux 모델은 스타일이나 곡선들을 두드려지게 잘 표현하는 �
 
 ####<flux+redux>
 
-<img src="images/redux_redux.png" width="500"> 
+<img src="images/flux_redux.png" width="500"> 
 
 
 제품을 변경하고자하는 이미지에 원하는 제품으로 변경할때 원하는 제품이미지사진의 각도,ROI에 따라 제품이 잘바뀌기도 하고 잘바뀌지않는다 여러방법을 시도해서 제품이 선명하게 잘바뀌는 최적의 방법을 시도했습니다.
