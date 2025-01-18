@@ -83,6 +83,6 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다.제품 편집의 핵심은 Flux,Redux 모델입니다.
 
-##### <flux 모델>
+#### <flux 모델>
 
 
