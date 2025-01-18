@@ -65,7 +65,8 @@ diffusion model:stable diffusion 3.5,stable diffusion 1.5
 
 ## [이미지 파인튜닝(Fine Tuning)]
 
-프롬프트 튜닝으로 일관성있게하는데 한계가 있어서 comfyui stable diffusion1.5로 얼굴과 제품을 바꿨습니다.그리고 옷도 sd1.5로 동일하게 바꿀수있는지 시도해봤습니다. 
+프롬프트 튜닝으로 일관성있게하는데 한계가 있어서 comfyui stable diffusion1.5로 얼굴과 제품을 바꿨습니다.그리고 옷도 sd1.5로 동일하게 바꿀수있는지 시도해봤습니다.
+
 
 ### ●얼굴(Fast Swap Face Reactor) [comfyui_얼굴.json](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%96%BC%EA%B5%B4.json)
 
@@ -95,7 +96,7 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 
 
 
-----
+
 제품을 변경하고자하는 이미지에 원하는 제품으로 변경할때 원하는 제품이미지사진의 각도,ROI에 따라 제품이 잘바뀌기도 하고 잘바뀌지않는다 여러방법을 시도해서 제품이 선명하게 잘바뀌는 최적의 방법을 시도했습니다.
 
 #### 각도
@@ -121,7 +122,7 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 
 <img src="images/peach1.png" width="500" > <img src="images/peach2.png" width="500" >
 <img src="images/tang1.png" width="500" > <img src="images/tang2.png" width="500" >
-
+-----
 ## [의의/한계]
 
 ●기획단계부터 시각화까지 소요되는 인력과 시간을 단축함
