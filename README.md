@@ -110,7 +110,7 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 
 프롬프트 튜닝을 해서 옷을 일관성있게하지않고 인물이 입고있는 옷으로 일관성있게 옷을 바꿀수있는지 시도해봤습니다.인물이 입고있는옷을 inpainting해서 다른 이미지의 인물이 입고있는 옷으로 바꿔보았습니다.
 
-<img src="images/clothes_masking.png" width="650" >
+<img src="images/clothes_masking.png" width="600" >
 
 
 
