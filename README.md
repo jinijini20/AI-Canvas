@@ -100,7 +100,7 @@ image to image workflow로 inpainting을 해서  제품을 바꿔보았습니다
 <img src="images/angle.png" width="650" >
 위에 보이는 이미지처럼 원본이미지 제품 각도와 비슷하게 제품이미지를 업로드해줘야 더 잘변경되는것을 볼수있습니다.
 
-#####이미지 배경
+##### 이미지 배경
   
 
 
