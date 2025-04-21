@@ -162,4 +162,5 @@ Redux 모델은 스타일이나 곡선들을 두드려지게 잘 표현하는 �
 ●서비스레이아웃구성필요
 
 
+[스토리보드](https://github.com/jinijini20/AI-Canvas/blob/main/comfyui%20workflow/comfyui_%EC%96%BC%EA%B5%B4.json)
 
